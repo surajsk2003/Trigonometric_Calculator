@@ -8,29 +8,24 @@ This is a simple trigonometric calculator implemented in C++. It allows users to
 
 # How to Use:
 - Clone the repository to your local machine.
-<br>
 - Compile the trigonometric_calculator.cpp file using a C++ compiler.
-<br>
 - Run the executable file generated after compilation.
-<br>
 - Follow the on-screen instructions to input an angle and choose the trigonometric operation.
   
 # Dependencies:
 - This project requires a C++ compiler that supports C++11 or later.
-<br>
 - No external libraries are used.
 
 # Example Usage:
-Enter the angle in degrees: 45
-Choose operation:
-1. Sine
-2. Cosine
-3. Tangent
-Enter your choice (1/2/3): 1
-Sine(45) = 0.707107
+- Enter the angle in degrees: 45
+- Choose operation:
+  1. Sine
+  2. Cosine
+  3. Tangent
+- Enter your choice (1/2/3): 1
+  Sine(45) = 0.707107
 
 Do you want to perform another calculation? (y/n): y
-<br>
 Enter the angle in degrees: 30
 Choose operation:
 1. Sine
