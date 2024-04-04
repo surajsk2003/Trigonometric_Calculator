@@ -25,23 +25,23 @@ This is a simple trigonometric calculator implemented in C++. It allows users to
 - Enter your choice (1/2/3): 1
   Sine(45) = 0.707107
 
-Do you want to perform another calculation? (y/n): y
-Enter the angle in degrees: 30
-Choose operation:
-1. Sine
-2. Cosine
-3. Tangent
-Enter your choice (1/2/3): 2
-Cosine(30) = 0.866025
+- Do you want to perform another calculation? (y/n): y
+- Enter the angle in degrees: 30
+- Choose operation:
+  1. Sine
+  2. Cosine
+  3. Tangent
+- Enter your choice (1/2/3): 2
+  Cosine(30) = 0.866025
 
-Do you want to perform another calculation? (y/n): n
+- Do you want to perform another calculation? (y/n): n
 
 
 # Contribution:
-Contributions to this project are welcome. Feel free to fork the repository and submit pull requests with your improvements or bug fixes.
+- Contributions to this project are welcome. Feel free to fork the repository and submit pull requests with your improvements or bug fixes.
 
 # License:
-This project is licensed under the MIT License. See the LICENSE file for details.
+- his project is licensed under the MIT License. See the LICENSE file for details.
 
 
 
