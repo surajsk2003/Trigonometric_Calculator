@@ -1,6 +1,9 @@
 # Trigonometric Calculator
 This is a simple trigonometric calculator implemented in C++. It allows users to input an angle in degrees and choose to calculate the sine, cosine, or tangent of that angle.
 
+# Auther
+- Suraj Kumar
+
 # Features:
 - Calculates sine, cosine, and tangent of an angle provided by the user.
 - Angle input is in degrees, and calculations are performed in radians.
